@@ -1,0 +1,156 @@
+.contact-section{
+    background-color: #ccb671;
+    background-attachment: fixed;
+    width: 100vw;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+.fixed-content{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    PADDING-TOP: 100PX;
+    PADDING-BOTTOM: 100PX;
+
+  
+}
+.con-img  {
+    background-image: url('https://mohameds16.github.io/jfc-consultant/images/Capture1.webp');
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+height: 350px;
+width: 400px;
+}
+.text-cont h1{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+.text-cont p{
+    text-align: left;
+    font-size: 25px;
+}
+.info-section{
+    background-color: #0e0e0e;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contact-info , .mail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.contact-info h1{
+    font-size: 33px;
+    margin-bottom: 50px;
+    color: #B79632;
+    margin: 10px;
+}
+.contact-info img{
+    height: 75px;
+    margin: 50px;
+}
+.contact-info p{
+    color: #9b978c;
+    margin: 10px;
+}
+.contact-info h2{
+    color: #B79632;
+    margin: 10px;
+}
+.mail h1{
+    font-size: 33px;
+    margin-bottom: 50px;
+    color: #B79632;
+    margin: 10px;
+}
+.mail img{
+    height: 75px;
+    margin: 50px;
+}
+.mail{
+    color: #9b978c;
+    margin: 10px;
+}
+.mail h2{
+    color: #B79632;
+    margin: 10px;
+}
+.box{
+    width: 440px;
+    height: 500px;
+    padding:150px 50px;
+    text-align: center;
+    background-color: #0e0e0e;
+    margin-top: 50px;
+    box-shadow: 1px 1px 10px rgba(170, 147, 147, 0.589);
+    margin-bottom: 70px;
+}
+.map-section{
+    width: 100vw;
+    background-color: #1b1b1b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mid-m{
+    display: flex;
+    width: 60%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+}
+.map-info{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    text-align: center;
+    padding: 0px;
+}
+.map-info iframe{
+    margin-top: 70px;
+    width: 90%;
+    height: 400px;
+}
+
+.map-section h1{
+    color: #B79632;
+    margin: 10px;
+    text-align: center;
+    margin: 10px;
+    font-size: 33px;
+}
+.map-heading{
+    font-size: 33px;
+    margin: 10px;
+    padding-top: 50px ;
+}
+.map-section p{
+    color: #9b978c;
+    text-align: center;
+    margin: 10px;
+    font-size: 15pt;
+}
+.map-details{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    text-align: center;
+    flex-direction: column;
+    width: 500px;
+    height: auto;
+}
