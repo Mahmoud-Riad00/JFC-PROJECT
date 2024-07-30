@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 1251ada1ec22cda12169b012551170478a846765 Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722113531 +0300	commit (initial): home page
+1251ada1ec22cda12169b012551170478a846765 1251ada1ec22cda12169b012551170478a846765 Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722113546 +0300	Branch: renamed refs/heads/master to refs/heads/main
+1251ada1ec22cda12169b012551170478a846765 4b3c73199647d441f24235b262813767074173a3 Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722158020 +0300	commit: buissness page
+4b3c73199647d441f24235b262813767074173a3 a512da6385e6cc927daba970253b90d47acfa88c Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722158551 +0300	commit: fix link 1,2
+a512da6385e6cc927daba970253b90d47acfa88c 8179a6e9ab1e97f4001f1d62fb1090430194d8b9 Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722198216 +0300	commit: service
+8179a6e9ab1e97f4001f1d62fb1090430194d8b9 115d2d27bb22c95d91ce977697a333f461b30f39 Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722198325 +0300	commit: servive upde
+115d2d27bb22c95d91ce977697a333f461b30f39 5f9a498cc7ee80490c3e597091a8da427f204e6e Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722198456 +0300	pull --tags origin main: Merge made by the 'ort' strategy.
+5f9a498cc7ee80490c3e597091a8da427f204e6e 87a08501f21ec227e09e756eaaafb4cf9348896f Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722275294 +0300	commit: about
+87a08501f21ec227e09e756eaaafb4cf9348896f cc986ad3a6f83f1d814cebb2072b4c916aa3f1e2 Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722275301 +0300	pull --tags origin main: Merge made by the 'ort' strategy.
+cc986ad3a6f83f1d814cebb2072b4c916aa3f1e2 c3d245d0cefee021285ba78fce9c5968393eccba Mahmoud-Riad00 <faydmahmwd1@gmail.com> 1722276158 +0300	pull --tags origin main: Fast-forward
